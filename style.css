@@ -1,0 +1,34 @@
+header {
+    background-color: rgb(14, 15, 12);
+    color:azure;
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    color:rgb(52, 105, 54);
+    font-size: 20px;
+   
+}
+.foto {
+    padding: 10px;
+    background-color: rgba(14, 11, 163, 0.651);
+    width: 25%; 
+}
+#inicio{
+    color: rgb(168, 8, 2);
+}
+#origenes {
+    color: rgb(168, 8, 2);
+}
+#decadas{
+    color: rgb(168, 8, 2);
+}
+#campeones{
+    color: rgb(168, 8, 2);
+}
+#circuitos{
+    color: rgb(168, 8, 2);
+}
+
+
