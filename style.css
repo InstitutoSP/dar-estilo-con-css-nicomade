@@ -9,7 +9,7 @@ header {
 nav li{
     display: inline;
     margin-right: 1cm;
-    
+    font-style: oblique;
 }
 nav a{
     text-decoration: none;
@@ -50,8 +50,9 @@ section{
 }
 footer{
     background-color: rgba(130, 87, 170, 0.404);
-    -webkit-text-fill-color: blue;
     text-align: center;
     padding: 0.4cm;
 }
-
+footer p{
+    color: blue;
+}
